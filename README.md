@@ -1,18 +1,18 @@
 # google_sheets_drive 101
 
-google sheets sometimes means label data to data team.
+Google sheets sometimes are label data to data team.
 
-it's also a interface to communicates data with the different functional team. 
+It's also a tool to communicate the insights with the different team.
 
 So it'll be convenient if we can do CRUD on google-sheet with minimum effort.
 
 
 `pysheets`
 
-1. [ ] - create
-2. [ ] - read
-3. [ ] - update
-4. [ ] - delete
+1. [x] - create
+2. [x] - read
+3. [x] - update
+4. [x] - delete
 
 
 # Ref
