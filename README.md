@@ -13,7 +13,7 @@ So it'll be convenient if we can do CRUD on google-sheet with minimum effort.
 2. [x] - read
 3. [x] - update
 4. [x] - delete
-
+5. [ ] - listen a cell
 
 # Ref
 
